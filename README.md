@@ -15,7 +15,6 @@ Este projeto tem como objetivo desenvolver uma interface web moderna, responsiva
 
 * HTML5
 * CSS3
-* JavaScript
 * Git e GitHub
 
 ## 📂 Estrutura do Projeto
