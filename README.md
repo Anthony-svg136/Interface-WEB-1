@@ -60,13 +60,33 @@ O projeto busca oferecer uma experiência agradável ao usuário, garantindo ace
 
 ## 👨‍💻 Autor
 
-**Nome do Aluno**
-
-## 📅 Data
-
-Junho de 2026
+**Anthony Muraro**
 
 ## 📚  Materiais da disciplina de Interface Web.
 
 * Documentação HTML5.
 * Documentação CSS3.
+
+## <h2> 🤝 Grupo ACDK </h2>
+
+```yaml
+grupo:
+  "ACDK"
+
+descrição:
+  "Grupo acadêmico voltado para projetos, atividades e estudos do curso INFONET."
+
+disciplinas:
+  [
+    "Desenvolvimento Web",
+    "Banco de Dados",
+    "Arte Digital",
+    "Programação e Algoritmos",
+  ]
+```
+
+<p align="center">
+  <a href="https://github.com/ACDK-ETECVAV">
+    <img src="https://img.shields.io/badge/Grupo-ACDK-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
